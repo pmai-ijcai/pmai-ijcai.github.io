@@ -1,3 +1,8 @@
+---
+layout: page
+title: Organizers
+---
+
 ## Workshop Organizers
 - Antonella Guzzo, _University of Calabria_
 - Giuseppe de Giacomo
