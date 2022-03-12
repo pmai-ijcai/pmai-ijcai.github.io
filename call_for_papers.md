@@ -31,13 +31,13 @@ Topics of interest for submission include, but are not limited to:
  - multi-objective optimization, decision-making, and continuous improvement
  - value alignment in process management
 
-## Submission Detail 
+## Submission Details 
 
-###### Submission System
+#### Submission System
 TBD
-###### Paper format
+#### Paper format
 Papers submitted to PMAI Workshop must be formatted according to the IJCAI-22 guidelines. Submissions must be self-contained. Authors are required to submit their electronic papers in PDF format.
-###### Paper length
+#### Paper length
 Papers must be no longer than 7 pages in total: 6 pages for the body of the paper (including all figures/tables), plus up to 1 additional page with references that do not fit within the six body pages. 
 
 The reviewing process is double-blind. At least one author of each accepted paper is required to attend the workshop to present the work. Authors will be required to agree to this requirement at the time of submission.
