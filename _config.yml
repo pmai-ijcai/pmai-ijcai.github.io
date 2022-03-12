@@ -14,7 +14,7 @@ author: PMAI Workshop @ ICAI 2022
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Overview: "overview"
+  Overview: "index"
   Program: "program"
   Call for Papers: "call_for_papers"
   Organizers: "organizers"
