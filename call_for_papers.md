@@ -34,17 +34,40 @@ Topics of interest for submission include, but are not limited to:
 
 ## Submission Details 
 
-#### Submission System
-TBD
-#### Paper format
 {: style="text-align: justify"}
-Papers submitted to PMAI Workshop must be formatted according to the IJCAI-22 guidelines. Submissions must be self-contained. Authors are required to submit their electronic papers in PDF format.
-#### Paper length
+Submissions must be written in English, prepared in Springer's LaTeX style LNCS available [here](http://www.springer.com/comp/lncs/Authors.html), formatted in PDF and submitted through EasyChair.
+
 {: style="text-align: justify"}
-Papers must be no longer than 7 pages in total: 6 pages for the body of the paper (including all figures/tables), plus up to 1 additional page with references that do not fit within the six body pages. 
+PMAI 2022 invites submissions of research, industry and application contributions as well as software demonstrations.
+
+There are two submission formats:
+ - _Regular papers_ (up to 12 pages): has at least 10 "standard" pages (1 standard page = 2500 characters) and an appropriate number of references;
+ - _Short papers_ (up to 8 pages): results and ideas of interest to the PMAI audience, including position papers, system and application descriptions and presentations of preliminary results.
+
+{: style="text-align: justify"}
+Regular papers and short papers must be original, i.e. not published in an earlier workshop or conference or journal.
+
+{: style="text-align: justify"}
+All accepted papers are expected to be presented at the conference and at least one author is required to register to the conference.
 
 {: style="text-align: justify"}
 The reviewing process is double-blind. At least one author of each accepted paper is required to attend the workshop to present the work. Authors will be required to agree to this requirement at the time of submission.
 
+## Camera Ready Preparation
 {: style="text-align: justify"}
-The workshop is non-archival, and there will not be formal proceedings, although papers will be available on the workshop website. Papers that are under review at another conference or journal are acceptable for submission at this workshop, but we will not accept papers that have already been accepted or published at a venue with formal proceedings (including IJCAI 2022). The submitted papers will be peer-reviewed by at least two PC members
+The final version of your manuscript must be formatted according to the new _CEUR-ART 1-column style_.
+
+An Overleaf page for LaTeX users is available at [this address](https://www.overleaf.com/read/gwhxnqcghhdt).
+Alternatively, you can [download](http://ceur-ws.org/Vol-XXX/CEURART.zip) an offline version with the style files.
+
+{: style="text-align: justify"}
+According to CEUR-WS policy, the papers will be published under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.en) that will be included in an open-access proceedings volume of [CEUR Workshop Proceedings](http://ceur-ws.org/), indexed by both Scopus and DBLP.
+
+{: style="text-align: justify"}
+When preparing your camera ready paper, please address the comments that the referees kindly provided in order to improve the quality of your contribution.
+
+{: style="text-align: justify"}
+For the _"Short paper"_ contributions, please do not forget to explicitly indicate that by inserting the following instruction just after the `\title{}` command:
+```
+\title[mode=sub]{(Discussion Paper)}
+```
