@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Call for Papers
 ---
-
-## Call for Papers
 
 ## Important Dates
 
