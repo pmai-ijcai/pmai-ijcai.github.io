@@ -4,7 +4,10 @@ layout: page
 
 ![logo](assets/img/logo.png){:class="img-responsive"}
 
-## IJCAI-22 Workshop on Process Management in the AI era
+{: style="text-align: center"}
+## IJCAI 2022 International Workshop on
+{: style="text-align: center"}
+## Process Management in the AI era
 
 {: style="text-align: justify"}
 _Process Management_ (PM) is a growing multidisciplinary discipline combining insights from Operation Management, Computer Science, and Data Science (cf., Process Mining). The extraordinary development of AI techniques is paving the way towards a new generation of information systems able to "augment" process management, making them more autonomous, adaptive, intelligent, self-optimizing. These are AI-empowered, trustworthy, and process-aware information systems that continuously reason and act upon data within a set of constraints, with the aim of adapting and improving one or more processes along one or more indicators. To support these sophisticated forms of decision-making, they will need to extract useful insights from the execution logs of ongoing/past process executions, so as to strengthen, integrate, and iteratively revise their domain knowledge.
