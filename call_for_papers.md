@@ -35,7 +35,7 @@ Topics of interest for submission include, but are not limited to:
 ## Submission Details 
 
 {: style="text-align: justify"}
-Submissions must be written in English, prepared in Springer's LaTeX style LNCS available [here](http://www.springer.com/comp/lncs/Authors.html), formatted in PDF and submitted through EasyChair.
+Submissions must be written in English, prepared in Springer's LaTeX style LNCS available [here](http://www.springer.com/comp/lncs/Authors.html), formatted in PDF and submitted through [EasyChair](https://easychair.org/conferences/?conf=pmaiijcai2022).
 
 {: style="text-align: justify"}
 PMAI 2022 invites submissions of research, industry and application contributions as well as software demonstrations.
