@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Call for Papers
+## Call for Papers
 
 ## Important Dates
 
