@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Call for Papers
 ---
+
+# Call for Papers
 
 ## Important Dates
 
@@ -11,8 +12,10 @@ title: Call for Papers
 | Camera Ready                   | 17th June 2022                                  |
 | Workshop                       | 23rd-25th July 2022 (EXACT DAY TO BE CONFIRMED) |
 
+{: style="text-align: justify"}
 *Note*: _all deadlines are Central European Time (CET), UTC +1, Paris, Brussels, Vienna._
 
+{: style="text-align: justify"}
 Topics of interest for submission include, but are not limited to:
  - multi-perspective process models (including data, time, resources)
  - declarative processes
@@ -35,10 +38,14 @@ Topics of interest for submission include, but are not limited to:
 #### Submission System
 TBD
 #### Paper format
+{: style="text-align: justify"}
 Papers submitted to PMAI Workshop must be formatted according to the IJCAI-22 guidelines. Submissions must be self-contained. Authors are required to submit their electronic papers in PDF format.
 #### Paper length
+{: style="text-align: justify"}
 Papers must be no longer than 7 pages in total: 6 pages for the body of the paper (including all figures/tables), plus up to 1 additional page with references that do not fit within the six body pages. 
 
+{: style="text-align: justify"}
 The reviewing process is double-blind. At least one author of each accepted paper is required to attend the workshop to present the work. Authors will be required to agree to this requirement at the time of submission.
 
+{: style="text-align: justify"}
 The workshop is non-archival, and there will not be formal proceedings, although papers will be available on the workshop website. Papers that are under review at another conference or journal are acceptable for submission at this workshop, but we will not accept papers that have already been accepted or published at a venue with formal proceedings (including IJCAI 2022). The submitted papers will be peer-reviewed by at least two PC members
