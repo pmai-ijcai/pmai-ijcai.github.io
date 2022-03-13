@@ -6,6 +6,7 @@ layout: page
 
 {: style="text-align: center"}
 ## IJCAI 2022 International Workshop on
+
 {: style="text-align: center"}
 ## Process Management in the AI era
 
