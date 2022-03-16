@@ -71,3 +71,7 @@ For the _"Short paper"_ contributions, please do not forget to explicitly indica
 ```
 \title[mode=sub]{(Discussion Paper)}
 ```
+
+## COVID Regulations
+{: style="text-align: justify"}
+IJCAI-22 is planned to be a physical event. For details on up-to-date regulations [click here](https://ijcai-22.org/covid).

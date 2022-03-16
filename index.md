@@ -16,3 +16,7 @@ This poses foundational, conceptual, and technical challenges related to the int
 
 {: style="text-align: justify"}
 The first workshop on Process Management in the AI era, aims at bringing together researchers from different research disciplines and a strong interest in promoting the synergy between AI and PM to address the above frontier challenges. We plan a paper submission session, with selected peer-review paper and an invited talk session.
+
+## COVID Regulations
+{: style="text-align: justify"}
+IJCAI-22 is planned to be a physical event. For details on up-to-date regulations [click here](https://ijcai-22.org/covid).
