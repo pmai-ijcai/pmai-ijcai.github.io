@@ -5,7 +5,7 @@ title: Organizers
 
 ## Workshop Organizers
 - Antonella Guzzo, _University of Calabria, Italy_
-- Giuseppe de Giacomo, _Sapienza University of Rome, Italy_
+- Giuseppe De Giacomo, _Sapienza University of Rome, Italy_
 - Marco Montali, _Free University of Bozen, Italy_
 - Tathagata Chakraborti, _IBM Research, Cambridge, USA_
 - Fabiana Fournier, _IBM Research, Haifa, Israel_
