@@ -35,42 +35,24 @@ Topics of interest for submission include, but are not limited to:
 ## Submission Details 
 
 {: style="text-align: justify"}
-Submissions must be written in English, prepared in Springer's LaTeX style LNCS available [here](http://www.springer.com/comp/lncs/Authors.html), formatted in PDF and submitted through [EasyChair](https://easychair.org/conferences/?conf=pmaiijcai2022).
+Submissions must be written in English, prepared using the new CEUR-ART 1-column style, formatted in PDF and submitted through [EasyChair](https://easychair.org/conferences/?conf=pmaiijcai2022)
 
 {: style="text-align: justify"}
 PMAI 2022 invites submissions of research, industry and application contributions as well as software demonstrations.
 
 There are two submission formats:
- - _Regular papers_ (up to 12 pages): has at least 10 "standard" pages (1 standard page = 2500 characters) and an appropriate number of references;
- - _Short papers_ (up to 8 pages): results and ideas of interest to the PMAI audience, including position papers, system and application descriptions and presentations of preliminary results.
-
-{: style="text-align: justify"}
-Regular papers and short papers must be original, i.e. not published in an earlier workshop or conference or journal.
+ - _Regular papers_ (11-12 pages including an appropriate number of references): must contain enough substance that they can be cited in other publications and may not have appeared before.
+ - _Extended Abstracts_ (2-4 pages including an appropriate number of references): results and ideas of interest to the PMAI audience, including position papers, system and application descriptions and presentations of preliminary results, overview of papers accepted at another conference or which you submitted or plan to submit to another conference. In the latter case, extended abstracts must clearly state the venue where the paper has been accepted or submitted alongside its status.
 
 {: style="text-align: justify"}
 All accepted papers are expected to be presented at the conference and at least one author is required to register to the conference.
 
 {: style="text-align: justify"}
-The reviewing process is double-blind. At least one author of each accepted paper is required to attend the workshop to present the work. Authors will be required to agree to this requirement at the time of submission.
+Submissions should be single blind so the names of the authors will be visible to the reviewers and should be indicated on the submitted files. In justified cases, if you wish your submission to be handled anonymously (i.e., double-blind) please send an e-mail to <pmaiijcai@protonmail.com> explaining the reasons. You will receive instructions on how to proceed.
 
 ## Camera Ready Preparation
 {: style="text-align: justify"}
-The final version of your manuscript must be formatted according to the new _CEUR-ART 1-column style_.
-
-An Overleaf page for LaTeX users is available at [this address](https://www.overleaf.com/read/gwhxnqcghhdt).
-Alternatively, you can [download](http://ceur-ws.org/Vol-XXX/CEURART.zip) an offline version with the style files.
-
-{: style="text-align: justify"}
-According to CEUR-WS policy, the papers will be published under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.en) that will be included in an open-access proceedings volume of [CEUR Workshop Proceedings](http://ceur-ws.org/), indexed by both Scopus and DBLP.
-
-{: style="text-align: justify"}
-When preparing your camera ready paper, please address the comments that the referees kindly provided in order to improve the quality of your contribution.
-
-{: style="text-align: justify"}
-For the _"Short paper"_ contributions, please do not forget to explicitly indicate that by inserting the following instruction just after the `\title{}` command:
-```
-\title[mode=sub]{(Discussion Paper)}
-```
+The proceedings will be submitted to [CEUR-WS.org](http://ceur-ws.org) for online publication. Due to a change of policy at CEUR-WS.org only Regular papers will be published under a CC BY 4.0 license that will be included in an open-access proceedings volume of CEUR Workshop Proceedings, indexed by both Scopus and DBLP. Extended Abstracts are no longer indexed by dblp.org and the case of an abstract of a pre-published paper may require a permission by the copyright holder.
 
 ## COVID Regulations
 {: style="text-align: justify"}
