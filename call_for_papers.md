@@ -38,6 +38,10 @@ Topics of interest for submission include, but are not limited to:
 Submissions must be written in English, prepared using the new CEUR-ART 1-column style, formatted in PDF and submitted through [EasyChair](https://easychair.org/conferences/?conf=pmaiijcai2022)
 
 {: style="text-align: justify"}
+An Overleaf page for LaTeX users is available at this [address](https://www.overleaf.com/read/gwhxnqcghhdt).
+Alternatively, you can [download](http://ceur-ws.org/Vol-XXX/CEURART.zip) an offline version with the style files. 
+
+{: style="text-align: justify"}
 PMAI 2022 invites submissions of research, industry and application contributions as well as software demonstrations.
 
 There are two submission formats:
