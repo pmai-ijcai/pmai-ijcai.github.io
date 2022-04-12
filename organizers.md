@@ -4,6 +4,7 @@ title: Organizers
 ---
 
 ## Workshop Organizers
+
 - Tathagata Chakraborti, _IBM Research, Cambridge, USA_
 - Giuseppe de Giacomo, _Sapienza University of Rome, Italy_
 - Fabiana Fournier, _IBM Research, Haifa, Israel_
