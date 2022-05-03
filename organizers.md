@@ -3,7 +3,7 @@ layout: page
 title: Organizers
 ---
 
-## Workshop Organizers
+## General Chairs
 
 - Tathagata Chakraborti, _IBM Research, Cambridge, USA_
 - Giuseppe de Giacomo, _Sapienza University of Rome, Italy_
@@ -12,6 +12,8 @@ title: Organizers
 - Lior Limonad, _IBM Research, Haifa, Israel_
 - Marco Montali, _Free University of Bozen, Italy_
 
+## Web Chair
+- Michele Ianni, _University of Calabria, Italy_
 
 ## Program Committee (tentative)
 
