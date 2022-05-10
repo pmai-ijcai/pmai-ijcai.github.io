@@ -6,9 +6,9 @@ title: Call for Papers
 ## Important Dates
 
 | Abstract Submission (optional) | 29th April 2022                                  |
-| Paper Submission Deadline      | 9th May 2022                                     |
+| Paper Submission Deadline      | ~~9th May 2022~~ 16th May 2022		    |
 | Paper Notification             | 3rd June 2022                                    |
-| Workshop                       | 23rd-25th July 2022 (EXACT DATE TO BE CONFIRMED) |
+| Workshop                       | 23rd July					    |
 | Camera Ready                   | 7th August 2022                                  |
 
 {: style="text-align: justify"}
