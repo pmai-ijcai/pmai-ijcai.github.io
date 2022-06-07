@@ -1,8 +1,7 @@
 ---
 layout: page
+title: null
 ---
-
-# 
 
 ## List of accepted Papers
 
