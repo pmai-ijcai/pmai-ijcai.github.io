@@ -1,7 +1,11 @@
 ---
 layout: page
-title: null
+title: Program
 ---
+
+## Program
+
+The program will be announced after the acceptance date
 
 ## List of accepted Papers
 
@@ -11,8 +15,6 @@ title: null
 - Zihang Su, Artem Polyvyanyy, Nir Lipovetzky, Sebastian Sardina and Nick van Beest Janus: _A Simulator for Continuous Goal Recognition over Changing Environments_
 - Björn Rafn Gunnarsson, Jochen De Weerdt and Seppe Vanden Broucke: _A framework for encoding the multi-location load state of a business process_
 - Sergey Zeltyn, Segev Shlomov, Avi Yaeli and Alon Oved: _Prescriptive Process Monitoring in Intelligent Process Automation with Chatbot Orchestration_
-
-
 
 ### Extended Abstract
 
@@ -27,9 +29,4 @@ title: null
 - Antonio Ielo, Francesco Ricca and Luigi Pontieri: _Declarative Mining of Business Processes via ASP_
 - Diego Calvanese, Giuseppe De Giacomo, Marco Montali and Fabio Patrizi: _Verification of Generic, Relational Transition Systems_
 - Peter Fettke and Alexander Rombach: _Towards Integrated AI Planning and BPM_
-
-
-## Program
-
-The program will be announced after the acceptance date
 
