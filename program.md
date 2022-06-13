@@ -8,7 +8,8 @@ title: Program
 The program will be announced after the acceptance date
 
 ## Invited Speaker: Chiara Ghidini
-![image](assets/img/ghidini.jpg){: style="float: left"}
+![image](assets/img/ghidini.jpg){: style="float: left; height='25%'"}
+{: style="text-align: justify"}
 She is a senior Research Scientist at Fondazione Bruno Kessler (FBK), Trento, Italy, where she heads the Process & Data Intelligence (PDI) research unit and is responsible of the scientific ordination of the new centre of digital Health & Well Being. Her scientific work in the areas of Semantic Web, Knowledge Engineering and Representation, Multi-Agent Systems and Process Mining is internationally well known and recognised, and she has made significant scientific contributions in the areas of: formal semantics for contextual reasoning and multi-context logics; formal frameworks for the specification of deliberative resource bounded agents; ontology mappings and integration; collaborative modeling platforms, business process modelling, and predictive business process monitoring. She has been involved in a number of international research projects, among which the FP7 Organic.Lingua and SO-PC-Pro European projects and the current network of Excellence Humane-AINet, as well as industrial projects in collaboration with companies in the Trentino area.
 
 ## List of accepted Papers
