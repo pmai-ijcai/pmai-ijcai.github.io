@@ -7,7 +7,7 @@ title: Program
 
 The program will be announced after the acceptance date
 
-## Invited Speaker: Chiara Ghidini
+## Invited Speaker: _Chiara Ghidini_
 ![ghidini](/assets/img/ghidini.jpg){:class="img-responsive" style="max-width: 50%; float: left; border-radius: 3%; margin-right: 25px"}
 
 {: style="text-align: justify"}
