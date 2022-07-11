@@ -9,11 +9,11 @@ title: Program
   <tbody>
     <tr style="background-color:#FEF2CB">
       <td>9:00-9:05</td>
-      <td><em>Welcome and Opening Remark</em> - Chair Antonella Guzzo</td>
+      <td><b>Welcome and Opening Remark</b> - Chair Antonella Guzzo</td>
     </tr>
     <tr style="background-color:#D8D8D8">
       <td>9:05-9:50</td>
-      <td><em>Keynote: Chiara Ghidini</em> - Title: <em>Predictive and proactive trustable process monitoring</em></td>
+      <td><b>Keynote: Chiara Ghidini</b> - Title: <em>Predictive and proactive trustable process monitoring</em></td>
     </tr>
     <tr style="background-color:#FEF2CB">
       <td> </td>
@@ -29,7 +29,7 @@ title: Program
     </tr>
     <tr style="background-color:#D8D8D8">
       <td>10:45-11:15</td>
-      <td><em>Coffee break</em></td>
+      <td><b>Coffee break</b></td>
     </tr>
     <tr style="background-color:#FEF2CB">
       <td> </td>
@@ -49,7 +49,7 @@ title: Program
     </tr>
     <tr style="background-color:#D8D8D8">
       <td>12:30-14:00</td>
-      <td><em>Lunch break</em></td>
+      <td><b>Lunch break</b></td>
     </tr>
     <tr style="background-color:#FEF2CB">
       <td> </td>
@@ -73,7 +73,7 @@ title: Program
     </tr>
     <tr style="background-color:#D8D8D8">
       <td>15:00-15:30</td>
-      <td><em>Coffee break</em></td>
+      <td><b>Coffee break</b></td>
     </tr>
     <tr style="background-color:#FEF2CB">
       <td> </td>
@@ -113,7 +113,7 @@ title: Program
     </tr>
     <tr style="background-color:#D8D8D8">
       <td>17:15-17:30</td>
-      <td><em>Closing Remarks</em></td>
+      <td><b>Closing Remarks</b></td>
     </tr>
   </tbody>
 </table>
