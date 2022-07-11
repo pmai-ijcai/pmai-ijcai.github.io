@@ -4,8 +4,36 @@ title: Program
 ---
 
 ## Program
+|   9:00-9:05 | Welcome and Opening Remark - Chair Antonella Guzzo                                                                                                                                                          |
+|   9:05-9:50 | Keynote: Chiara Ghidini -Title:  Predictive and proactive trustable process monitoring                                                                                                                      |
+|             | Paper presentation - SESSION I  -  Chair Giuseppe De Giacomo                                                                                                                                                |
+|  9:50-10:15 | Guy Amit, Fabiana Fournier, Shlomit Gur and Lior Limonad: Model-informed LIME Extension for Business Process Explainability                                                                                 |
+| 10:15-10:40 | Björn Rafn Gunnarsson, Jochen De Weerdt and Seppe Vanden Broucke: A framework for encoding the multi-location load state of a business process                                                              |
+| 10:45-11:15 | Coffee break                                                                                                                                                                                                |
+|             | Paper presentation - SESSION II  -  Chair Lior Limonad                                                                                                                                                      |
+| 11:15-11:40 | Tobias Zimpel, Andrea Wild, Hansjörg Schrade and Stefan Kirn: Association Rule Mining to Study Process-Related Cause-Effect-Relationships in Pig Farming                                                    |
+| 11:40-12:05 | Zihang Su, Artem Polyvyanyy, Nir Lipovetzky, Sebastian Sardina and Nick van Beest Janus: A Simulator for Continuous Goal Recognition over Changing Environments                                             |
+| 12:05-12:30 | Sergey Zeltyn, Segev Shlomov, Avi Yaeli and Alon Oved: Prescriptive Process Monitoring in Intelligent Process Automation with Chatbot Orchestration                                                         |
+| 12:30-14:00 | Lunch break                                                                                                                                                                                                 |
+|             | Paper presentation - SESSION III  -  Chairs Fabiana Fournier / Chakraborty Tathagata                                                                                                                        |
+| 14:00-14:25 | Phuong Nguyen, Vatche Isahagian, Vinod Muthusamy and Aleksander Slominski: Summarizing Process Traces for Analysis Tasks: An Intuitive and User-controlled Approach                                         |
+|             | Short Paper presentations                                                                                                                                                                                   |
+| 14:25-14:40 | Diego Calvanese, Giuseppe De Giacomo, Marco Montali and Fabio Patrizi. Verification of Generic, Relational Transition Systems                                                                               |
+| 14:40-14:55 | Chiara Di Francescomarino, Ivan Donadello, Chiara Ghidini, Fabrizio Maria Maggi and Williams Rizzi: Making sense of temporal data: the DECLARE encoding                                                     |
+| 15:00-15:30 | Coffee break                                                                                                                                                                                                |
+|             | Short Paper presentation - SESSION IV  - Chair  Giuseppe De Giacomo                                                                                                                                         |
+| 15:30-15:45 | Marco Roveri, Claudio Di Ciccio, Chiara Di Francescomarino and Chiara Ghidini: Computing unsatisfiable cores for LTLf specifications                                                                        |
+| 15:45-16:00 | Praveen Venkateswaran, Vinod Muthusamy, Yara Rizk and Vatche Isahagian: Towards Continual Learning in Interactive Digital Assistants for Process Automation                                                 |
+| 16:00-16:15 | Simone Agostinelli and Andrea Marrella: Intelligent Robotic Process Automation: Generating Executable RPA Scripts from Unsegmented UI Logs                                                                  |
+| 16:15-16:30 | Paolo Felli, Marco Montali and Sarah Winkler. Reasoning and Verification with Data Petri Nets                                                                                                               |
+|             | Short Paper presentation - SESSION V  -  Chair Marco Montali                                                                                                                                                |
+| 16:30-16:45 | Peter Fettke and Alexander Rombach. Towards Integrated AI Planning and BPM                                                                                                                                  |
+| 16:45-17:00 | Giuseppe De Giacomo, Marco Favorito, Francesco Leotta, Massimo Mecella and Luciana Silo: Modeling resilient cyber-physical processes and their composition from digital twins via Markov Decision Processes |
+| 17:00-17-15 | Antonio Ielo, Francesco Ricca and Luigi Pontieri: Declarative Mining of Business Processes via ASP                                                                                                          |
+| 17:15-17:30 | Closing Remarks                                                                                                                                                                                             |
 
-The program will be announced after the acceptance date
+
+
 
 ## Invited Speaker: _Chiara Ghidini_
 ![ghidini](/assets/img/ghidini.jpg){:class="img-responsive" style="max-width: 50%; float: left; border-radius: 3%; margin-right: 25px"}
