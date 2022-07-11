@@ -5,7 +5,7 @@ title: Program
 
 ## Program
 
-|    :00-9:05 | *Welcome and Opening Remark* - Chair Antonella Guzzo                                                                                                                                                          |
+|    9:00-9:05 | *Welcome and Opening Remark* - Chair Antonella Guzzo                                                                                                                                                          |
 |   9:05-9:50 | *Keynote: Chiara Ghidini* - Title: _Predictive and proactive trustable process monitoring_                                                                                                                    |
 |             | *Paper presentation - SESSION I* - Chair Giuseppe De Giacomo                                                                                                                                                  |
 |  9:50-10:15 | Guy Amit, Fabiana Fournier, Shlomit Gur and Lior Limonad: _Model-informed LIME Extension for Business Process Explainability_                                                                                 |
