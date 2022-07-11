@@ -5,7 +5,7 @@ title: Program
 
 ## Program
 
-<table style="font-size:75%">
+<table style="font-size:80%">
   <tbody>
     <tr style="background-color:#FEF2CB">
       <td>9:00-9:05</td>
