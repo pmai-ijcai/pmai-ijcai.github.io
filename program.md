@@ -7,15 +7,15 @@ title: Program
 
 <table>
   <tbody>
-    <tr>
-      <td>:00-9:05</td>
+    <tr style="background-color:#FEF2CB">
+      <td>9:00-9:05</td>
       <td><em>Welcome and Opening Remark</em> - Chair Antonella Guzzo</td>
     </tr>
-    <tr>
+    <tr style="background-color:#D8D8D8">
       <td>9:05-9:50</td>
       <td><em>Keynote: Chiara Ghidini</em> - Title: <em>Predictive and proactive trustable process monitoring</em></td>
     </tr>
-    <tr>
+    <tr style="background-color:#FEF2CB">
       <td> </td>
       <td><em>Paper presentation - SESSION I</em> - Chair Giuseppe De Giacomo</td>
     </tr>
@@ -27,11 +27,11 @@ title: Program
       <td>10:15-10:40</td>
       <td>Björn Rafn Gunnarsson, Jochen De Weerdt and Seppe Vanden Broucke: <em>A framework for encoding the multi-location load state of a business process</em></td>
     </tr>
-    <tr>
+    <tr style="background-color:#D8D8D8">
       <td>10:45-11:15</td>
       <td><em>Coffee break</em></td>
     </tr>
-    <tr>
+    <tr style="background-color:#FEF2CB">
       <td> </td>
       <td><em>Paper presentation - SESSION II</em> - Chair Lior Limonad</td>
     </tr>
@@ -47,11 +47,11 @@ title: Program
       <td>12:05-12:30</td>
       <td>Sergey Zeltyn, Segev Shlomov, Avi Yaeli and Alon Oved: <em>Prescriptive Process Monitoring in Intelligent Process Automation with Chatbot Orchestration</em></td>
     </tr>
-    <tr>
+    <tr style="background-color:#D8D8D8">
       <td>12:30-14:00</td>
       <td><em>Lunch break</em></td>
     </tr>
-    <tr>
+    <tr style="background-color:#FEF2CB">
       <td> </td>
       <td><em>Paper presentation - SESSION III</em> - Chairs Fabiana Fournier / Chakraborty Tathagata</td>
     </tr>
@@ -59,7 +59,7 @@ title: Program
       <td>14:00-14:25</td>
       <td>Phuong Nguyen, Vatche Isahagian, Vinod Muthusamy and Aleksander Slominski: <em>Summarizing Process Traces for Analysis Tasks: An Intuitive and User-controlled Approach</em></td>
     </tr>
-    <tr>
+    <tr style="background-color:#FEF2CB">
       <td> </td>
       <td><em>Short Paper presentations - SESSION III</em></td>
     </tr>
@@ -71,11 +71,11 @@ title: Program
       <td>14:40-14:55</td>
       <td>Chiara Di Francescomarino, Ivan Donadello, Chiara Ghidini, Fabrizio Maria Maggi and Williams Rizzi: <em>Making sense of temporal data: the DECLARE encoding</em></td>
     </tr>
-    <tr>
+    <tr style="background-color:#D8D8D8">
       <td>15:00-15:30</td>
       <td><em>Coffee break</em></td>
     </tr>
-    <tr>
+    <tr style="background-color:#FEF2CB">
       <td> </td>
       <td><em>Short Paper presentation - SESSION IV</em> - Chair Giuseppe De Giacomo</td>
     </tr>
@@ -95,7 +95,7 @@ title: Program
       <td>16:15-16:30</td>
       <td>Paolo Felli, Marco Montali and Sarah Winkler: <em>Reasoning and Verification with Data Petri Nets</em></td>
     </tr>
-    <tr>
+    <tr style="background-color:#FEF2CB">
       <td> </td>
       <td><em>Short Paper presentation - SESSION V</em> - Chair Marco Montali</td>
     </tr>
@@ -111,7 +111,7 @@ title: Program
       <td>17:00-17-15</td>
       <td>Antonio Ielo, Francesco Ricca and Luigi Pontieri: <em>Declarative Mining of Business Processes via ASP</em></td>
     </tr>
-    <tr>
+    <tr style="background-color:#D8D8D8">
       <td>17:15-17:30</td>
       <td><em>Closing Remarks</em></td>
     </tr>
