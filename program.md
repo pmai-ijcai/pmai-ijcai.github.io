@@ -65,7 +65,7 @@ title: Program
     </tr>
     <tr>
       <td>14:25-14:40</td>
-      <td>Diego Calvanese, Giuseppe De Giacomo, Marco Montali and Fabio Patrizi: <em>Verification of Generic, Relational Transition Systems</em></td>
+      <td>Paolo Felli, Marco Montali and Sarah Winkler: <em>Reasoning and Verification with Data Petri Nets</em></td>
     </tr>
     <tr>
       <td>14:40-14:55</td>
@@ -93,7 +93,7 @@ title: Program
     </tr>
     <tr>
       <td>16:15-16:30</td>
-      <td>Paolo Felli, Marco Montali and Sarah Winkler: <em>Reasoning and Verification with Data Petri Nets</em></td>
+      <td>Diego Calvanese, Giuseppe De Giacomo, Marco Montali and Fabio Patrizi: <em>Verification of Generic, Relational Transition Systems</em></td>
     </tr>
     <tr style="background-color:#FEF2CB">
       <td> </td>
