@@ -101,7 +101,7 @@ title: Program
     </tr>
     <tr>
       <td>16:30-16:45</td>
-      <td>Peter Fettke and Alexander Rombach: <em>Towards Integrated AI Planning and BPM</em></td>
+      <td>Peter Fettke and Alexander Rombach: <em>Towards Automated Process Planning and Mining</em></td>
     </tr>
     <tr>
       <td>16:45-17:00</td>
